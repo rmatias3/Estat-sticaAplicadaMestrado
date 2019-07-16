@@ -1,0 +1,7 @@
+pandas
+matplotlib
+calendar
+math
+scipy
+random
+numpy
